@@ -1,0 +1,2 @@
+0 araba
+1 motor
